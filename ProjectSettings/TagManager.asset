@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Weapon
+  - Enemy
+  - Undefined
+  - PlayerParticles
+  - Bullet
+  - BackgroundMusic
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sky
+    uniqueID: 4160840077
+    locked: 0
+  - name: Rocks
+    uniqueID: 1383963133
+    locked: 0
+  - name: Clouds
+    uniqueID: 3236707481
+    locked: 0
+  - name: Hills2
+    uniqueID: 13550849
+    locked: 0
+  - name: Hills1
+    uniqueID: 3375418519
+    locked: 0
+  - name: Ground
+    uniqueID: 1440732853
+    locked: 0
+  - name: Game
+    uniqueID: 2379442121
+    locked: 0
